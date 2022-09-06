@@ -1,5 +1,4 @@
-# bootstrap-practice
-Projects Requirements
+# Projects Requirements
 
 Your task is to create a landing page using the Bootstrap framework. The following shows the sections you are required to create in that landing page:
 
